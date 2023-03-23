@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Sharped/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Sharped.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sharped.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sharped/1.0.0": {
+      "type": "project",
+      "path": "../Sharped/Sharped.csproj",
+      "msbuildProject": "../Sharped/Sharped.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Sharped >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/adambestajovsky/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/adambestajovsky/Projects/Sharped/Demo1/Demo1.csproj",
+      "projectName": "Demo1",
+      "projectPath": "/Users/adambestajovsky/Projects/Sharped/Demo1/Demo1.csproj",
+      "packagesPath": "/Users/adambestajovsky/.nuget/packages/",
+      "outputPath": "/Users/adambestajovsky/Projects/Sharped/Demo1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/adambestajovsky/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/opt/cosmos/Packages/": {},
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/adambestajovsky/Projects/Sharped/Sharped/Sharped.csproj": {
+              "projectPath": "/Users/adambestajovsky/Projects/Sharped/Sharped/Sharped.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

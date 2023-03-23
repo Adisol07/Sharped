@@ -1,0 +1,12 @@
+/Users/adambestajovsky/Projects/Sharped/Sharped/bin/Debug/net7.0/Sharped.deps.json
+/Users/adambestajovsky/Projects/Sharped/Sharped/bin/Debug/net7.0/Sharped.dll
+/Users/adambestajovsky/Projects/Sharped/Sharped/bin/Debug/net7.0/Sharped.pdb
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.csproj.AssemblyReference.cache
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.AssemblyInfoInputs.cache
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.AssemblyInfo.cs
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.csproj.CoreCompileInputs.cache
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.dll
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/refint/Sharped.dll
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/Sharped.pdb
+/Users/adambestajovsky/Projects/Sharped/Sharped/obj/Debug/net7.0/ref/Sharped.dll
